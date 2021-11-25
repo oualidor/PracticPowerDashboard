@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e208b61.chunk.css",
+    "main.js": "/static/js/main.b980466d.chunk.js",
+    "main.js.map": "/static/js/main.b980466d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.353383e3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.353383e3.js.map",
+    "static/css/2.4626ed4d.chunk.css": "/static/css/2.4626ed4d.chunk.css",
+    "static/js/2.f8bcc058.chunk.js": "/static/js/2.f8bcc058.chunk.js",
+    "static/js/2.f8bcc058.chunk.js.map": "/static/js/2.f8bcc058.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bf194249dc2179ca6b8933ed69666e86.js": "/precache-manifest.bf194249dc2179ca6b8933ed69666e86.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4626ed4d.chunk.css.map": "/static/css/2.4626ed4d.chunk.css.map",
+    "static/css/main.1e208b61.chunk.css.map": "/static/css/main.1e208b61.chunk.css.map",
+    "static/js/2.f8bcc058.chunk.js.LICENSE.txt": "/static/js/2.f8bcc058.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/ipad.bff0499a.jpg",
+    "static/media/logo.svg": "/static/media/logo.2673b52f.svg",
+    "static/media/mobile.svg": "/static/media/mobile.89c4cb30.svg",
+    "static/media/rotate.svg": "/static/media/rotate.b2922fea.svg",
+    "static/media/tablet.svg": "/static/media/tablet.39131b70.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.353383e3.js",
+    "static/css/2.4626ed4d.chunk.css",
+    "static/js/2.f8bcc058.chunk.js",
+    "static/css/main.1e208b61.chunk.css",
+    "static/js/main.b980466d.chunk.js"
+  ]
+}
